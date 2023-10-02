@@ -1,0 +1,48 @@
+
+
+ul{
+    display: flex;
+    text-decoration: none;
+   
+}
+li{
+     display: flex;
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    background-color: gray;
+    justify-content: space-around;
+    justify-content: right;
+    
+}
+.logo{
+    justify-content: left;
+}
+.bar{
+    display: flex;
+    text-align: right;
+    justify-content: space-around;
+    justify-content: right;
+}
+.image-container{
+    height:400px;
+    width: 1500px;
+   
+}
+h2{
+ margin: 20px;
+}
+.imag{
+    height: 160px;
+    width: 210px;
+    border-radius: 50px;
+}
+
+input[type=text] {
+  width:40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
